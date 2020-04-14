@@ -151,7 +151,7 @@ function SearchWrite(Search, Write, Type)
     end
 end
 
-gg.alert("[BYPASS] PUBG Mobile GLOBAL  04 April 2020\nTelegram: @gHesss_Boys")
+gg.alert("[✪ BYPASS] PUBG Mobile GLOBAL  04 April 2020\nTelegram: @gHesss_Boys")
 qmnb = {
       {
         ["memory"] = tonumber("4")
@@ -359,4 +359,4 @@ gg.editAll("9", gg.TYPE_DOUBLE)
 gg.editAll("4.66", gg.TYPE_DOUBLE)
 gg.editAll("5.5", gg.TYPE_DOUBLE)
 gg.clearResults()
-gg.alert("📀 BYPASS DONE\n Execute Enjoyers-Brutal.lua Sudah Bisa Dipakai")
+gg.alert("✪ BYPASS DONE\n Execute MCPBO.lua Sudah Bisa Dipakai")
